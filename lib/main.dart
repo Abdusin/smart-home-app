@@ -25,6 +25,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         primaryColor: Color(0xff867cef),
         backgroundColor: Color(0xfff0f0f0),
+        disabledColor: Color(0xffededed),
         colorScheme: ColorScheme.fromSwatch(accentColor: Color(0xffaf92ea)),
         textTheme: GoogleFonts.openSansTextTheme(),
         visualDensity: VisualDensity.adaptivePlatformDensity,

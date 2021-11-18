@@ -17,6 +17,10 @@ dependencies:
 #Fonts & Icons
   cupertino_icons: ^1.0.3
   google_fonts: ^2.1.0
+
+#UI
+  sleek_circular_slider: ^2.0.1
+  flutter_switch: ^0.3.2
   
 dev_dependencies:
   flutter_test:
